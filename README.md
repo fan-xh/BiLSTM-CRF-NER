@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # BiLSTM-CRF-NER
 
